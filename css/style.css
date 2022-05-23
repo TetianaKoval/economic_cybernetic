@@ -421,7 +421,7 @@ body._touch .menu__list > li._active .menu__arrow {
   display: block;
   width: 78px;
   height: 78px;
-  background-image: url(../../img/logo.svg);
+  background-image: url(../img/logo.svg);
   background-repeat: no-repeat;
   background-size: contain;
   margin-right: 22px;
@@ -448,7 +448,7 @@ body._touch .menu__list > li._active .menu__arrow {
 .footer__address-icon {
   width: 16px;
   height: 20px;
-  background-image: url(../../img/location.svg);
+  background-image: url(../img/location.svg);
   background-repeat: no-repeat;
   background-size: contain;
   margin-right: 10px;
@@ -463,7 +463,7 @@ body._touch .menu__list > li._active .menu__arrow {
 }
 .footer__email {
   display: block;
-  background-image: url(../../img/mail.svg);
+  background-image: url(../img/mail.svg);
   background-position: left center;
   background-repeat: no-repeat;
   padding-left: 30px;
@@ -476,7 +476,7 @@ body._touch .menu__list > li._active .menu__arrow {
 }
 .footer__phone {
   display: block;
-  background-image: url(../../img/phone.svg);
+  background-image: url(../img/phone.svg);
   background-position: left center;
   background-repeat: no-repeat;
   padding-left: 30px;
@@ -620,7 +620,7 @@ body._touch .menu__list > li._active .menu__arrow {
   display: block;
   width: 18px;
   height: 18px;
-  background-image: url(../../img/play.svg);
+  background-image: url(../img/play.svg);
   background-size: contain;
   background-repeat: no-repeat;
   margin-left: 7px;
@@ -807,7 +807,7 @@ body._touch .menu__list > li._active .menu__arrow {
   content: "";
   display: block;
   position: absolute;
-  background-image: url(../../img/arrow.svg);
+  background-image: url(../img/arrow.svg);
   width: 17px;
   height: 10px;
   top: 5px;
@@ -848,7 +848,7 @@ body._touch .menu__list > li._active .menu__arrow {
   bottom: 0;
   width: 80%;
   height: 100%;
-  background-image: url(../../img/studentka.png);
+  background-image: url(../img/studentka.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -886,7 +886,7 @@ body._touch .menu__list > li._active .menu__arrow {
   line-height: 26px;
   color: #fff;
   margin-bottom: 10px;
-  background-image: url(../../img/check.svg);
+  background-image: url(../img/check.svg);
   background-repeat: no-repeat;
   background-position: 0 4px;
   background-size: 17px;
@@ -1001,7 +1001,7 @@ body._touch .menu__list > li._active .menu__arrow {
   content: "";
   display: block;
   position: absolute;
-  background-image: url(../../img/arrow.svg);
+  background-image: url(../img/arrow.svg);
   width: 17px;
   height: 10px;
   top: 5px;
@@ -1049,7 +1049,7 @@ body._touch .menu__list > li._active .menu__arrow {
   }
 
   .positions {
-    background-image: url(../../img/slide3.png);
+    background-image: url(../img/slide3.png);
     background-position: 0 0;
     background-size: cover;
     position: relative;
