@@ -168,10 +168,10 @@
   background-color: #f3a600;
 }
 .social__icon--fb {
-  background-image: url(/img/fb.svg);
+  background-image: url(../img/fb.svg);
 }
 .social__icon--instagram {
-  background-image: url(/img/instagram.svg);
+  background-image: url(../img/instagram.svg);
 }
 .social__icon:last-child {
   margin-right: 0;
